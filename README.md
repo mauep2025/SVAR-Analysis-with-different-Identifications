@@ -1,4 +1,4 @@
-# SVAR-Analysis-with-different-Identifications
+# SVAR-Analysis-with-different-Identifications Methods
 
 alternative_identification.m        ---> Based on the sing set of Kilian & Daniel (2012), the code compares the SVAR results from a Cholesky Decomposition Identification vs a Sign-Restriction
 
