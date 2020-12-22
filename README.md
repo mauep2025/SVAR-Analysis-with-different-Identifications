@@ -9,4 +9,4 @@ External_instrument_identification.m ---> Following Kanzig (2019) and based on t
 
 “Inference in Structural Vector Autoregressions Identified With and External Instrument”, Montiel Olea, José L; Stock, James H.; and Watson, Mark W; Working Paper Columbia University.   ( https://github.com/jm4474/SVARIV ) 
 
-Diego Kanzig, 2019. The macroeconomic effects of oil supply news: Evidence from OPEC announcements.
+Diego Känzig, 2019. The macroeconomic effects of oil supply news: Evidence from OPEC announcements.
